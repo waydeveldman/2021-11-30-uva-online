@@ -179,7 +179,7 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have an up-to-date web browser and spreadsheet program (e.g. excel) installed on their computers, the rest of the programs needed will be on the Amazon Machine Image (AMI) instance that will be provided. For more information see "Setup" below.
+  They should have an up-to-date web browser installed on their computers, as well as a spreadsheet program (e.g. Excel). The rest of the programs needed will be on the Amazon Machine Image (AMI) instance that will be provided. For more information see "Setup" below.
 </p>
 
 {% comment %}
