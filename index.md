@@ -179,7 +179,7 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have an up-to-date web browser installed on their computers, as well as a spreadsheet program (e.g. Excel). The rest of the programs needed will be on the Amazon Machine Image (AMI) instance that will be provided. For more information see "Setup" below.
+  You should have an up-to-date web browser installed on your computers, as well as a spreadsheet program (e.g. Excel). For Windows, you will also need to install either Git Bash, PuTTY, or the Ubuntu Subsystem. For more information see "Setup" below. The remaining programs that we will use are going to be on the Amazon Machine Image (AMI) instance which will be provided for you.
 </p>
 
 {% comment %}
